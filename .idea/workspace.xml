@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd086aa6-cb08-47f0-9668-4c613b15362c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosVariosAD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd086aa6-cb08-47f0-9668-4c613b15362c" name="Changes" comment="Hasta el 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,8 +72,16 @@
       <option name="presentableId" value="Default" />
       <updated>1663663201235</updated>
       <workItem from="1663663202681" duration="1199000" />
-      <workItem from="1663667299969" duration="3596000" />
+      <workItem from="1663667299969" duration="3908000" />
     </task>
+    <task id="LOCAL-00001" summary="Hasta el 8">
+      <created>1663671211768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663671211768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hasta el 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hasta el 8" />
   </component>
 </project>
