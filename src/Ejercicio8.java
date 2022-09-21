@@ -28,9 +28,9 @@ public class Ejercicio8 {
         while (Str != -1) {
             System.out.print((char) Str);
             Str = origen.read();
+            destine1.write(Str);
         }
-
-        destine1.write(origen.read());
-
+        origen.close();
+        destine1.close();
     }
 }

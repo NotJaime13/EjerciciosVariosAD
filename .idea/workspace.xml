@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd086aa6-cb08-47f0-9668-4c613b15362c" name="Changes" comment="Hasta el 8" />
+    <list default="true" id="fd086aa6-cb08-47f0-9668-4c613b15362c" name="Changes" comment="Hasta el 8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="NotJaime13 &lt;jaimemillan13@hotmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,7 +41,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ejercicio8">
     <configuration name="Ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio6" />
       <module name="EjerciciosVariosAD" />
@@ -48,6 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio8" />
+      <module name="EjerciciosVariosAD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="EjerciciosVariosAD" />
@@ -57,8 +72,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ejercicio7" />
+        <item itemvalue="Application.Ejercicio8" />
         <item itemvalue="Application.Ejercicio6" />
+        <item itemvalue="Application.Ejercicio7" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -72,7 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663663201235</updated>
       <workItem from="1663663202681" duration="1199000" />
-      <workItem from="1663667299969" duration="3908000" />
+      <workItem from="1663667299969" duration="4039000" />
+      <workItem from="1663741624937" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="Hasta el 8">
       <created>1663671211768</created>
@@ -81,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663671211768</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hasta el 8">
+      <created>1663671261617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663671261617</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hasta el 8">
+      <created>1663671308177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663671308177</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
